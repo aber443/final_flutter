@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705323744633",
+    "project_id": "tinyguide-3da76",
+    "storage_bucket": "tinyguide-3da76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705323744633:android:ab7e55e835c3d52025c3a8",
+        "android_client_info": {
+          "package_name": "com.example.tinyguide_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGkJryYLrhSXG3gUQbCcQypI2p6u6hKxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
